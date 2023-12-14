@@ -24,6 +24,12 @@ This project is a simple code collaborator application with a real-time editor, 
    ```bash
    git clone https://github.com/your-username/code-collaborator.git
 
+###Screenshots
+
+
+
+![Screenshot (523)](https://github.com/Nikhil-Gowda-T-P/proflow/assets/76807414/b61d6ccf-6581-4378-a7ce-75d36758ad5b)
+
 
 
 
